@@ -1,2 +1,4 @@
 replicaCount: 5
 appTitle: My DEV application
+image:
+  repository: jakov3c.mylabserver.com:443/ajoj
